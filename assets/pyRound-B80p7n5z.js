@@ -1,0 +1,1 @@
+function e(e,t=0){let n=10**t,r=e*n,i=Math.floor(r),a=r-i,o;return o=Math.abs(a-.5)<1e-9?i%2==0?i:i+1:Math.round(r),o/n}export{e as t};

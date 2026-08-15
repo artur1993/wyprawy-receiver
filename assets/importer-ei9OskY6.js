@@ -1,0 +1,1 @@
+import{A as e,I as t}from"./db-G1PypQBc.js";import{n}from"./exif-C3skPKxq.js";import"./gpx-p67UB19H.js";async function r(r,i,a){let o=[];for(let t of a){let r=await n(await t.file.arrayBuffer());o.push(e(i,t.ref,t.name,r))}return await t(o),o}export{r as importPhotos};
