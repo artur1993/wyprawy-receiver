@@ -1,0 +1,1 @@
+var e={peak:{icon:`🏔️`,label:`Szczyt`},region:{icon:`🗻`,label:`Region`},city:{icon:`🏙️`,label:`Miasto`},journey:{icon:`🧭`,label:`Wyprawa`},place:{icon:`📌`,label:`Miejsce`},route:{icon:`🛤️`,label:`Trasa`}};export{e as t};
